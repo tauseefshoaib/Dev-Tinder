@@ -1,0 +1,20 @@
+{
+  "name": "be",
+  "version": "1.0.0",
+  "description": "tinder for devs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "express",
+    "mongodb"
+  ],
+  "author": "Tauseef Shoaib",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
