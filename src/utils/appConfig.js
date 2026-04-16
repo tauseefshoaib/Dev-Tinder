@@ -1,0 +1,5 @@
+require("dotenv").config();
+
+const dbURL = process.env.MONGODB_URL;
+
+module.exports = { dbURL };
